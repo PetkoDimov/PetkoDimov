@@ -1,1 +1,6 @@
-### Hello there! 👋 ![emojisky com-1275830](https://user-images.githubusercontent.com/108327041/176141488-8274bd7a-3cf5-4a6f-a6a8-d815eea1a71c.png)
+### Hello there! 👋
+I'm Petko Dimov, 25 years old from Burgas, Bulgaria.
+Currently I am student of the SoftUni Academy : softtuni.bg
+Right now I use the C# and JavaScript technologies.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetkoDimov)](https://github.com/anuraghazra/github-readme-stats)
