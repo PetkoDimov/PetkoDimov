@@ -4,3 +4,4 @@ Currently I am student of the SoftUni Academy : softtuni.bg
 Right now I use the C# and JavaScript technologies.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetkoDimov)](https://github.com/anuraghazra/github-readme-stats)
+
