@@ -3,4 +3,4 @@ I'm Petko Dimov, 25 years old from Burgas, Bulgaria.
 Currently I am student of the SoftUni Academy : softtuni.bg
 Right now I use the C# and JavaScript technologies.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-Sharp-Basic)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetkoDimov)](https://github.com/anuraghazra/github-readme-stats)
